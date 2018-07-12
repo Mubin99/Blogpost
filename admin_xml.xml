@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+	<user>
+		<name>Mubin</name>
+		<pass>123</pass>
+	</user>
+	<user>
+		<name>ABC</name>
+		<pass>456</pass>
+	</user>
+		<user>
+		<name>Admin_3</name>
+		<pass>789</pass>
+	</user>
+</document>
